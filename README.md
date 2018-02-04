@@ -1,7 +1,6 @@
-# Material Design, Bootstrap & Angular5
+# Material Design, Bootstrap4 & Angular5
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli), bootstrap and Material Design.
-
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli), Bootstrap and Material Design.
 
 ## Development server
 
